@@ -10,6 +10,7 @@ maintained by "GANPATI"
 
 
 
+
 public String name(){
 
 return "karthik";
@@ -19,4 +20,13 @@ return "karthik";
 maintained by "GANPATI And KARTHIK"
 
 
+
+task id=102
+public void m2(){
+
+sysout(3*6);
+
+//all logic is completed
+
+}
 
