@@ -1,7 +1,15 @@
-HI
+public String nameHI
 
 pavan pyati
 
 shilpa pyati
 
 maintained by "GANPATI"
+
+
+
+
+public String name(){
+
+return "karthik";
+}
